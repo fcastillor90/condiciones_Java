@@ -1,0 +1,29 @@
+.container-stickers-all{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-stickers{
+    display: flex;
+    align-items: baseline;
+}
+
+.stickers{
+    width: 250px;
+    height: 250px;
+}
+
+.container-buy{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: baseline;
+}
+
+#cantidad{
+    margin: 0 8 px;
+}
+
+.imgclass{
+    border: 0px solid red;
+}
